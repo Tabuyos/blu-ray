@@ -1,0 +1,4 @@
+rootProject.name = "blu-ray"
+
+include("spring-security")
+include("blu-ray-test")
